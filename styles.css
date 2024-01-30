@@ -12,6 +12,10 @@ ul {
     list-style: none;
 }
 
+li {
+    margin: 4rem 0 0 0;
+}
+
 a {
     color: inherit;
 }
