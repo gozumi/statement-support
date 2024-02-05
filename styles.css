@@ -1,35 +1,35 @@
 body {
-    background-color: rgb(90, 169, 210);
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 20px;
-    margin: 1rem 4rem 6rem 4rem;
-    text-align: justify;
+  background-color: rgb(90, 169, 210);
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  margin: 1rem 4rem 6rem 4rem;
+  text-align: justify;
 }
 
 ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 li {
-    margin: 0 0 6rem 0;
+  margin: 0 0 6rem 0;
 }
 
 h1 {
-    margin: 4rem 0 4rem 0;
+  margin: 4rem 0 4rem 0;
 }
 
 a {
-    color: inherit;
+  color: inherit;
 }
 
 iframe {
-    width: 100% !important;
+  width: 100% !important;
 }
 
 @media screen and (max-width: 80rem) {
-    body {
-        margin: 1rem 2rem 6rem 2rem;
-    }
+  body {
+    margin: 1rem 2rem 6rem 2rem;
+  }
 }
